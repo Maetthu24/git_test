@@ -1,0 +1,4 @@
+Hello,
+In this file, there will be conflicts.
+I am sure of it.
+Let's see how this goes.
